@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1017089825520",
+    "project_id": "otpverificationfb",
+    "storage_bucket": "otpverificationfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017089825520:android:3786ae1810b76043f5c035",
+        "android_client_info": {
+          "package_name": "yajy.goswami.loginotpproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF283u6MsYsGfQTPzvYPeecN0hET4FGvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
